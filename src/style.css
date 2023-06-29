@@ -1,0 +1,86 @@
+.navbar-link {
+    text-decoration: none;
+    color: white;
+}
+.navbar-link:hover{
+    text-decoration: none;
+    color: rgb(215, 215, 215);
+}
+.button-link {
+    text-decoration: none;
+    color: rgb(209, 209, 209);
+}
+.button-link:hover{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.card-contenido{
+    margin: 5%;
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
+.bg-darkp{
+    background-color: rgb(19, 21, 22);
+    margin-bottom: 2%;
+}
+.bg-redp{
+    background-color: rgb(207, 47, 47);
+    margin-bottom: 2%;
+}
+.bg-yellowp{
+    background-color: rgb(226, 207, 36);
+    margin-bottom: 2%;
+}
+.bg-greenp{
+    background-color: rgb(50, 199, 55);
+    margin-bottom: 2%;
+}
+.bg-bluep{
+    background-color: rgb(52, 90, 195);
+    margin-bottom: 2%;
+}
+.container-iconos{
+    margin-top: 5%;
+}
+.iconos{
+    width:15%;
+    height:15%;
+}
+.contenido{
+    padding-bottom: 1%;
+}
+.contenido-centrado{
+    text-align: center;
+    align: center;
+    align-items: center;
+    justify-content: center;
+}
+.contenido-junto{
+    display:flex
+}
+
+h1{
+    text-align: center;
+}
+
+hr{
+    background-color: white;
+}
+
+::-webkit-scrollbar {
+	width: 10px;
+	color: #ffffff;
+}
+
+::-webkit-scrollbar-track {
+	background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+	background: rgb(19, 21, 22);
+	border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background:rgb(31, 34, 35); 
+}
